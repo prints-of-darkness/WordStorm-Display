@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\WordStorm Display\Project Outputs for WordStorm Display\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/11/24
+Time:       20:14
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C14","GRM188R72A104MA35J","TopLayer","0603","173.9970","19.1160","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C13","GRM188R72A104MA35J","TopLayer","0603","173.9970","20.6400","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C12","GRM188R72A104MA35J","TopLayer","0603","173.9970","23.6880","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C11","GRM188R72A104MA35J","TopLayer","0603","173.9970","27.3710","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C10","GRM188R72A104MA35J","TopLayer","0603","179.3310","31.9430","270","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C9","GRM188R72A104MA35J","TopLayer","0603","186.4430","31.9430","270","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C8","GRM188R72A104MA35J","TopLayer","0603","189.6180","31.9430","270","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C7","GRM188R72A104MA35J","TopLayer","0603","177.8070","31.9430","270","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C6","GRM188R72A104MA35J","TopLayer","0603","173.9970","25.2120","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C5","GRM188R72A104MA35J","TopLayer","0603","173.9970","22.1640","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C4","GRM188R72A104MA35J","TopLayer","0603","173.9970","17.5920","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C3","GRM188R72A104MA35J","TopLayer","0603","173.9970","15.3060","0","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C2","GRM188R72A104MA35J","TopLayer","0603","191.7770","31.9430","270","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C1","GRM188R72A104MA35J","TopLayer","0603","184.9190","31.9430","270","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"J1","5039084120","TopLayer","41POS","144.4600","10.3600","180","41 Position FFC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle"
+"X1","CSTNE10M0G550000R0","TopLayer","3-SMD","182.8870","32.7050","90","10 MHz Ceramic Resonator Built in Capacitor 33 pF ±0.2% 40 Ohms -40°C ~ 85°C Surface Mount"
+"U3","TPS61169DCKR","TopLayer","SOT-353","112.3950","10.1860","90","LED Driver IC 1 Output DC DC Regulator Step-Up (Boost) PWM Dimming 1.8A (Switch) SC-70-5"
+"U2","TLV75512PDBVR","TopLayer","SOT-23-5","197.1040","10.7950","180","Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5"
+"U1","SSD1963QL9","TopLayer","PCBComponent_1","184.5310","21.4630","270","LQFP-128(14x14) LCD Drivers ROHS"
+"R6","RMCF0603FT2R55","TopLayer","0603","114.5540","9.5250","90","2.55 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R5","RMCF0603FG10K0","TopLayer","0603","114.5540","12.4460","90","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R4","RMCF0603ZT0R00","TopLayer","0603","207.0100","13.5910","270","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R3","RMCF0603ZT0R00","TopLayer","0603","170.8150","19.8120","0","0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R2","RMCF0603FT120R","TopLayer","0603","180.8550","32.9590","90","120 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R1","RMCF0603FG10K0","TopLayer","0603","195.0790","29.0220","180","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"L1","744773047","TopLayer","4.50mm_x_4.00mm","108.4580","9.2970","270","4.7 µH Unshielded Drum Core, Wirewound Inductor 1.82 A 110mOhm Max Nonstandard"
+"J2","SFV16R-1STBE1HLF","TopLayer","FFC16POS","210.0000","8.9650","0","16 Position FFC, FPC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle"
+"D1","NSR0240V2T1G","TopLayer","SOD523","111.5060","6.6300","90","Diode 40 V 250mA Surface Mount SOD-523"
+"C34","GRM188D71H105KE01J","TopLayer","0603","112.7760","6.7570","270","1 µF ±10% 50V Ceramic Capacitor X7T 0603 (1608 Metric)"
+"C33","GRM188R6YA475KE15D","TopLayer","0603","112.1410","13.0810","180","4.7 µF ±10% 35V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C32","GRM188R72A104MA35J","TopLayer","0603","191.0150","10.9880","90","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C31","GRM188R72A104MA35J","TopLayer","0603","195.0790","25.8470","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C30","GRM188R72A104MA35J","TopLayer","0603","195.0790","22.7990","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C29","GRM188R72A104MA35J","TopLayer","0603","195.0760","19.3700","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C28","GRM188R72A104MA35J","TopLayer","0603","195.0790","15.6870","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C27","GRM188R72A104MA35J","TopLayer","0603","178.6960","10.8610","90","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C26","GRM188R72A104MA35J","TopLayer","0603","183.1410","10.8580","90","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C25","GRM188R72A104MA35J","TopLayer","0603","186.5700","10.8610","90","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C24","GRM188R72A104MA35J","TopLayer","0603","188.0940","31.9430","270","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C23","GRM188R72A104MA35J","TopLayer","0603","195.0790","27.3710","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C22","GRM188R72A104MA35J","TopLayer","0603","195.0790","24.3230","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C21","GRM188R72A104MA35J","TopLayer","0603","195.0790","20.8940","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C20","GRM188R72A104MA35J","TopLayer","0603","195.0790","17.2110","180","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C19","GRM188R72A104MA35J","TopLayer","0603","189.4910","10.9880","90","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C18","GRM188R72A104MA35J","TopLayer","0603","185.0460","10.8610","90","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C17","GRM188R72A104MA35J","TopLayer","0603","181.6170","10.8610","90","0.1 µF ±20% 100V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C16","GRM188D71H105KE01J","TopLayer","0603","195.9460","7.4580","270","1 µF ±10% 50V Ceramic Capacitor X7T 0603 (1608 Metric)"
+"C15","GRM188D71H105KE01J","TopLayer","0603","198.2320","7.4580","270","1 µF ±10% 50V Ceramic Capacitor X7T 0603 (1608 Metric)"
