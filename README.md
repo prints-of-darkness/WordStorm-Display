@@ -1,2 +1,4 @@
 # WordStorm-Display
- TFT Driver board
+ TFT Driver Board Using SSD1963
+
+ Design Pending: Fab and Assembly.
