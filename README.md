@@ -6,4 +6,5 @@
  # Online BOM
  
  [BOM - WordStorm Display R1.0](https://www.digikey.com/en/mylists/list/V4XMSAFERO)
+ 
  [BOM - WordStorm Display Breakout PCB](https://www.digikey.com/en/mylists/list/LETMVJL9VZ)
